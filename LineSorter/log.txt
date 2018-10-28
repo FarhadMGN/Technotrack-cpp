@@ -1,0 +1,3 @@
+[LineSorter.c:94] StartPosition = ftell (Name): Success
+[LineSorter.c:100] fseek (Name, 0, SEEK_END): Success
+[LineSorter.c:107] fseek (Name, 0, StartPosition): Success

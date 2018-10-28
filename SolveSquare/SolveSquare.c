@@ -10,7 +10,6 @@
         @param [out] x2 pointer to the second root
         @return roots of equation       
 */
-
 int SolveSquare (double a, double b, double c, double* x1, double*x2);
 
 /**
@@ -21,7 +20,6 @@ int SolveSquare (double a, double b, double c, double* x1, double*x2);
 	@param [out] x2 pointer to the second root
 	@return roots of equation	
 */ 
-
 int SolveLinear (double b, double c, double* x1, double* x2);
 
 enum Errors

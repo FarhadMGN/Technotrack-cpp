@@ -1,6 +1,5 @@
-#include <math,h>
+#include <math.h>
 #include <stdio.h>
-
 
 void UnitTest ();
 int CompareNumber (double num1, double num2);
