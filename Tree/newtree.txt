@@ -1,0 +1,34 @@
+ (animal 
+  (in tokp'
+   (jaba 
+   )
+   (layet
+    (pes
+    )
+    (big
+     (elephant
+     )
+     (cat ^_^
+     )
+    )
+   )
+  )
+  (mathimatick 
+   (Halyavny
+    (DJstkov
+    )
+    (very holyavny
+     (shompolouv
+     )
+     (LUNINA 
+     )
+    )
+   )
+   (Zloy
+    (Prood
+    )
+    (OUCHOS 
+    )
+   )
+  )
+ )
